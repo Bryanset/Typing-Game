@@ -1,4 +1,5 @@
 #Typing Game####
+
 El Typing Game es un juego simple desarrollado en Python utilizando la librería Freegames. El objetivo del juego es apuntar y presionar las teclas correspondientes a las letras que aparecen en la ventana. Debes eliminar las letras antes de que lleguen a la parte inferior de la ventana para obtener puntos.
 
 - Asegúrate de tener Python instalado en tu sistema. Puedes descargarlo desde el sitio web oficial de Python 
